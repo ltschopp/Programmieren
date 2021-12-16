@@ -17,4 +17,4 @@ Das Programm berechnet den BMI von Menschen. Es ist sehr einfach zu handhaben, s
 
 ### Reflexion: ###
 
-In den letzen Informatik-Lektionen habe ich gelernt, wie ich Probleme im Alltag, mithilfe der Programmiersprache Python lösen kann. Dazu brauche ich Werkzeuge, wie Loops, Conditionals und Variablen. Ich hoffe, dass ich das erlernte später nochmal brauchen werde, falls dies der Fall ist werden mir diese Lektionen sicher helfen. 
+In den letzen Informatik-Lektionen habe ich gelernt, wie ich Probleme im Alltag, mithilfe der Programmiersprache Python lösen kann. Dazu brauche ich Werkzeuge, wie Loops, Conditionals und Variablen. Ich hoffe, dass ich das erlernte später nochmal brauchen werde, falls dies der Fall ist, werden mir diese Lektionen sicher helfen. 
